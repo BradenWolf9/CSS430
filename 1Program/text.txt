@@ -1,0 +1,18 @@
+   PID TTY          TIME CMD
+  2623 pts/0    00:00:00 bash
+  4577 pts/0    00:00:00 a.out
+  4583 pts/0    00:00:00 sort <defunct>
+  4584 pts/0    00:00:00 sort <defunct>
+  4585 pts/0    00:00:00 sort <defunct>
+  4586 pts/0    00:00:00 sort <defunct>
+  4587 pts/0    00:00:00 ps <defunct>
+  4591 pts/0    00:00:00 ps <defunct>
+  4595 pts/0    00:00:00 ps <defunct>
+  4599 pts/0    00:00:00 ps <defunct>
+  4603 pts/0    00:00:00 ps <defunct>
+  4607 pts/0    00:00:00 ps <defunct>
+  4611 pts/0    00:00:00 ps <defunct>
+  4614 pts/0    00:00:00 ps <defunct>
+  4617 pts/0    00:00:00 ps <defunct>
+  4620 pts/0    00:00:00 ps <defunct>
+  4625 pts/0    00:00:00 ps

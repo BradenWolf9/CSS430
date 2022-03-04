@@ -1,0 +1,5 @@
+total 28
+-rwxrwxr-x 1 bradenwolf bradenwolf 13208 Jan 20 16:39 a.out
+-rw-rw-r-- 1 bradenwolf bradenwolf     0 Jan 20 16:39 junk.txt
+-rw-rw-r-- 1 bradenwolf bradenwolf  5306 Jan 20 16:38 shell.c
+-rw-rw-r-- 1 bradenwolf bradenwolf   658 Jan 20 16:36 text.txt
